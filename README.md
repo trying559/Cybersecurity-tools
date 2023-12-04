@@ -39,3 +39,23 @@
 ### **Compliance and Security Assessment**
 - **SCAP & STIG** - Security Content Automation Protocol and Security Technical Implementation Guides.
 - **Bitsight Security Rating** - Security ratings platform for risk assessment.
+---
+### **Security Resources**
+- [PhishTank](https://phishtank.org/)
+- [Weakpass Database](https://weakpass.com/)
+- [Exploit Database](https://www.exploit-db.com/)
+- [Shodan](https://www.shodan.io/)
+- [OSINT](https://osintframework.com/)
+- [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/)
+- [Opsec-guide](https://www.blackhatworld.com/seo/opsec-guide-detailed-complete-online-anonymization.1297165/)
+
+### **Tech and Tools**
+- [Corelan Cybersecurity Research](https://www.corelan.be/index.php/)
+- [Open source alternatives](https://www.opensourcealternative.to/)
+- [Web Browser privacy tests](https://privacytests.org/)
+- [Alternative frontends](https://libredirect.github.io/)
+
+### **General and Miscellaneous**
+- [Proxy Site](https://www.proxysite.com/)
+- [TOS TLDR](https://tosdr.org/en/frontpage)
+
