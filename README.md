@@ -48,12 +48,17 @@
 - [OSINT](https://osintframework.com/)
 - [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/)
 - [Opsec-guide](https://www.blackhatworld.com/seo/opsec-guide-detailed-complete-online-anonymization.1297165/)
+- [Have I Been Pwned](https://haveibeenpwned.com/)
+- [VirusTotal](https://www.virustotal.com/gui/)
+- [OWASP](https://owasp.org/)
+- [MITRE ATT&CK](https://attack.mitre.org/)
 
 ### **Tech and Tools**
 - [Corelan Cybersecurity Research](https://www.corelan.be/index.php/)
 - [Open source alternatives](https://www.opensourcealternative.to/)
 - [Web Browser privacy tests](https://privacytests.org/)
 - [Alternative frontends](https://libredirect.github.io/)
+
 
 ### **General and Miscellaneous**
 - [Proxy Site](https://www.proxysite.com/)
